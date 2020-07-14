@@ -1,0 +1,163 @@
+@charset "UTF-8";
+/* CSS Document */
+h3,h2,p,#box,#img1,#img2{
+	padding: 0px;
+	margin: 0px;
+}
+#container{
+	background-color: #FFFFFF;
+	width: 764px;
+	height: 311px;
+	border: solid 6px #DCDCDC;
+	display: flex;
+	flex-direction: column;
+	position: absolute;
+	margin: auto;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	
+}
+#box{
+	width: 764px;
+	height: 66px;
+	background-image: url("../div1.png");
+	border-bottom: solid 6px #dcdcdc;
+	
+	
+}
+a.news:link{
+	font: normal 30px "Heiti TC Medium";
+	display: flex;
+	flex-direction: column;
+	position: absolute;
+	top: 24px;
+	left: -1px;
+	margin-left: 50px;
+	letter-spacing: -1pt;
+	line-height: 30px;
+	text-decoration: none;
+	color: black;
+	
+}
+
+a.news:hover{
+	font: normal 31px "Heiti TC Medium";
+	display: flex;
+	flex-direction: column;
+	position: absolute;
+	top: 24px;
+	left: -1px;
+	margin-left: 50px;
+	letter-spacing: -1pt;
+	line-height: 30px;
+	text-decoration: none;
+	color: blue;
+	
+}
+a.latest:link{
+	font: normal 10px "Heiti TC Medium";
+	color: #000000;
+	display: flex;
+	flex-direction: column;
+	position: absolute;
+	margin: auto;
+	top: 27px;
+	left: 181px;
+	bottom: 0;
+	right: 0;
+	text-decoration:none;
+	
+}
+
+a.latest:active{
+	font: normal 10px "Heiti TC Medium";
+	color: #000000;
+	display: flex;
+	flex-direction: column;
+	position: absolute;
+	margin: auto;
+	top: 27px;
+	left: 181px;
+	bottom: 0;
+	right: 0;
+	text-decoration: underline;color: #FC9004;
+}
+a.more:link{
+	font: normal 15px  "Times New Roman";
+	color: #FC9004;
+	display: flex;
+	flex-direction: column;
+	position: absolute;
+	margin: auto;
+	top: 27px;
+	left: 691px;
+	bottom: 0;
+	right: 0;
+	text-decoration: none
+	
+}
+
+a.more:hover{
+	font: italic 15px  "Times New Roman";
+	color: #FC9004;
+	display: flex;
+	flex-direction: column;
+	position: absolute;
+	margin: auto;
+	top: 27px;
+	left: 691px;
+	bottom: 0;
+	right: 0;
+	text-decoration: underline;
+	
+	
+}
+
+
+
+#img{
+	display: flex;
+	flex-direction: column;
+	position: absolute;
+	top: 9px;
+	left: 12px;	
+}
+#img2{
+	display: flex;
+	flex-direction: column;
+	position: absolute;
+	top: 70px;
+	left: 12px;	
+	
+}
+a.welcome:link{text-decoration: none;color: black;font: normal 30px "Heiti TC Medium";
+	display: flex;
+	flex-direction: column;
+	position: absolute;
+	top: 120px;
+	left: 50px;	
+	
+}
+a.welcome:visited{text-decoration: none;color: purple;font: normal 30px "Heiti TC Medium";
+	display: flex;
+	flex-direction: column;
+	position: absolute;
+	top: 120px;
+	left: 50px;	
+	
+}
+a.welcome:hover{text-decoration: none;color: blue;
+	background: url(img.gif) repeat-x bottom
+}
+
+
+
+	
+
+
+
+
+
+

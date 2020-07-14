@@ -1,0 +1,105 @@
+@charset "UTF-8";
+/* CSS Document */
+#container{
+	width: 350px;
+	height: 596px;
+	background-color: #a2443a;
+	margin: 0 auto;
+	position:relative;
+	
+	
+	
+	
+}
+#box{
+	width: 332px;
+	height: 382px;
+	background-color: #FFFFFF;
+	position: absolute;
+	top: 101px;
+	left: 9px;
+	margin: 0 auto;
+	text-align: center;
+	border: 1px solid #d7b5aa;
+	
+}	
+
+	
+
+h2{
+		font:bold 9px "Heiti SC Light";
+	margin-top: 40px;
+		color: #7E7E7E;
+	}
+
+h3{
+		font:bold 20px "Heiti SC Light";
+	color: #000000 ;
+	margin-top: 14px;
+	letter-spacing: 1pt;
+}
+
+
+p.button{
+ height: 30px;
+ width: 144px;
+ line-height:30px;
+ margin-top: 22px;
+ margin-left: 95px;
+ background-color: #BB4F43; 
+ border: 1px solid #B53C2A;
+ border-radius:3px;
+ font: 14px ;
+ font-family: "Heiti SC Light";
+ color: #FFFFFF;
+ }
+
+p.one{
+	font:normal 11px "Heiti SC Light";
+	position:absolute;
+	margin-left: 25px;
+	margin-top: 7px;
+}
+
+p.two{
+	font:normal 11px "Heiti SC Light";
+	position:absolute;
+	margin-left: 25px;
+	margin-top: 25px;
+	}
+
+#poster{
+	width: 100%;
+	height: 100%;
+	background: url(cloth_.pic.png) no-repeat center top ;
+	border-top-style: dashed #f4f4f4 20x;
+	left: 25px;
+	margin-top: 80px;	
+	text-align: center;
+	
+}
+
+p.three{
+font:normal 14px "Heiti SC Light";
+color: #000000;
+display: flex;
+	flex-direction: column;
+	justify-content: center;
+		position:absolute;
+		margin-top: 358px;
+		left: -263px;
+		bottom: 0;
+		right: 0;
+}
+
+span1{
+	margin-top: -13px;
+	padding-left: 548px;
+	
+}
+
+
+
+	
+	
+
