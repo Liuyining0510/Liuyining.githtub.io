@@ -9,7 +9,7 @@ header,box,navigator{
 	height: 58px;
 	width: 641px;
 	width: 100%;
-	background: url(../图片/navbg.png)repeat;
+	background: url(../../img/navbg.png)repeat;
 	position: fixed;
 	top: 0;
 	left: 0;
@@ -83,7 +83,7 @@ div.search span1{
 	height: 14px;
 	width: 16px;
 	bottom: px;
-	background: url(../图片/search.png) no-repeat;
+	background: url(../../img/search.png) no-repeat;
 	margin: 3px;
 	border-right: 1px solid #000000;
 	float: left;
@@ -136,7 +136,7 @@ div.shadow{
 	width: 150%;
 	left: -290px;
 	height: 7px;
-	background: url(../图片/shadow.png);
+	background: url(../../img/shadow.png);
 	z-index: 160;
 	position: relative;
 	top: 17px
@@ -145,7 +145,7 @@ div.shadow{
 	width: 50%;
 	min-width: 1761px;
 	min-height: 1200px;
-	background-image: url(../图片/bodybg.png) ;
+	background-image: url(../../img/bodybg.png) ;
 	background-color: #feefef;
 	background-repeat: no-repeat;
 }
@@ -196,7 +196,7 @@ div.bgimg a.go:hover{
 	height: 58px;
 	width: 1011px;
 	width: 100%;
-	background: url(../图片/navbg.png)repeat;
+	background: url(../../img/navbg.png)repeat;
 	position: fixed;
 	top: 0;
 	left: 0;
@@ -269,7 +269,7 @@ div.search span1{
 	height: 14px;
 	width: 16px;
 	bottom: px;
-	background: url(../图片/search.png) no-repeat;
+	background: url(../../img/search.png) no-repeat;
 	margin: 3px;
 	border-right: 1px solid #000000;
 	float: left;
@@ -290,7 +290,7 @@ div.search inpt{
 
 div.button{
 	width: 20px;
-	background: url(../图片/btn.png);
+	background: url();
 	cursor: pointer;
 	float: right;
 	position: absolute;
@@ -322,7 +322,7 @@ div.shadow{
 	width: 150%;
 	left: -290px;
 	height: 7px;
-	background: url(../图片/shadow.png);
+	background: url(../../img/shadow.png);
 	z-index: 160;
 	position: relative;
 	top: 17px
@@ -335,7 +335,7 @@ div.bgimg{
 	width: 50%;
 	min-width: 1761px;
 	min-height: 800px;
-	background-image: url(../图片/bodybg.png) ;
+	background-image: url(../../img/bodybg.png) ;
 	background-color: #feefef;
 	background-repeat: no-repeat;
 }
